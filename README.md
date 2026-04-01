@@ -8,6 +8,11 @@
 [![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![](https://img.shields.io/badge/Google%20Gemma-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/gemma)
+[![](https://img.shields.io/badge/Qwen-1A73E8?style=for-the-badge&logo=alibaba-cloud&logoColor=white)](https://qwenlm.github.io/)
+[![](https://img.shields.io/badge/LoRA-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://arxiv.org/abs/2106.09685)
+[![](https://img.shields.io/badge/Albumentations-4FC08D?style=for-the-badge&logoColor=white)](https://albumentations.ai/)
 
 ---
 
@@ -18,6 +23,8 @@ It has been a great experience working with **KKR GenAI** as an AI Engineer. **K
 As an AI Engineer, I was responsible for building and deploying computer vision models and multi-agent AI systems for industrial inspection workflows. Following were my roles and responsibilities as an AI Engineer at **KKR GenAI**.
 
 * Fine-tuned deep learning models including EfficientNet-B3 and ResNet50 using PyTorch with transfer learning for image classification tasks.
+* Applied LoRA (Low-Rank Adaptation) for parameter-efficient fine-tuning of large models, reducing training compute while maintaining performance.
+* Leveraged vision-language models such as Qwen-VL and Gemma for multimodal understanding and visual reasoning tasks.
 * Built and orchestrated multi-agent pipelines using LangChain and LangGraph for automated analysis and decision-making workflows.
 * Designed image preprocessing pipelines using OpenCV and Albumentations for consistent image quality in production environments.
 * Iterated on prompt engineering strategies with few-shot examples to improve AI agent accuracy and alignment with domain experts.
